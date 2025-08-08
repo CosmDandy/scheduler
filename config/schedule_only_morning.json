@@ -1,0 +1,86 @@
+[
+	{
+		"calendar_title": "cal_schedule",
+		"calendar_id": "48F1FF95-FCD9-4EF1-B76E-58BEA8C5C551",
+		"calendar_routine": [
+			{
+				"title": "Morning", 
+				"schedule": [
+					{
+						"title": "Личная гигиена",
+						"time": "07:00",
+						"duration": 10
+					},
+					{
+						"title": "Зарядка",
+						"time": "07:10",
+						"duration": 30
+					},
+					{
+						"title": "Завтрак",
+						"time": "07:40",
+						"duration": 30
+					},
+					{
+						"title": "Работа с ежедневником",
+						"time": "08:10",
+						"duration": 20
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY"
+			},
+			{
+				"title": "Day",
+				"schedule": [
+					{
+						"title": "Обед",
+						"time": "13:00",
+						"duration": 30
+					},
+					{
+						"title": "Разбираю «Входящие»",
+						"time": "13:30",
+						"duration": 30
+					},
+					{
+						"title": "Развиваю новые навыки",
+						"time": "14:00",
+						"duration": 40
+					},
+					{
+						"title": "Читаю",
+						"time": "14:40",
+						"duration": 20
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY" 
+			},
+			{
+				"title": "Evening",
+				"schedule": [
+					{
+						"title": "Пишу в ежедневник и планирую следующий день",
+						"time": "08:10",
+						"duration": 20
+					},
+					{
+						"title": "Убираюсь в квартире",
+						"time": "08:10",
+						"duration": 20
+					},
+					{
+						"title": "Занимаюсь личной гигиеной",
+						"time": "08:10",
+						"duration": 20
+					},
+					{
+						"title": "Читаю перед сном",
+						"time": "08:10",
+						"duration": 20
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY" 
+			}
+		]
+	}
+]

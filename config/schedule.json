@@ -1,0 +1,167 @@
+[
+	{
+		"calendar_title": "cal_schedule",
+		"calendar_id": "48F1FF95-FCD9-4EF1-B76E-58BEA8C5C551",
+		"calendar_routine": [
+			{
+				"title": "Morning", 
+				"schedule": [
+					{
+						"title": "Личная гигиена",
+						"time": "05:00",
+						"duration": 10,
+						"reminders": []
+					},
+					{
+						"title": "Зарядка",
+						"time": "05:10",
+						"duration": 30,
+						"reminders": [0]
+					},
+					{
+						"title": "Завтрак",
+						"time": "05:40",
+						"duration": 30,
+						"reminders": []
+					},
+					{
+						"title": "Работа с ежедневником",
+						"time": "06:10",
+						"duration": 20,
+						"reminders": [5]
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY"
+			},
+			{
+				"title": "Day",
+				"schedule": [
+					{
+						"title": "Обед",
+						"time": "12:00",
+						"duration": 30,
+						"reminders": [15]
+					},
+					{
+						"title": "Разбираю «Входящие»",
+						"time": "12:30",
+						"duration": 10,
+						"reminders": [10]
+					},
+					{
+						"title": "Развиваю новые навыки",
+						"time": "12:40",
+						"duration": 40,
+						"reminders": [0]
+					},
+					{
+						"title": "Читаю",
+						"time": "13:20",
+						"duration": 40,
+						"reminders": [5]
+					},
+					{
+						"title": "Ужин",
+						"time": "18:00",
+						"duration": 30,
+						"reminders": [30]
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY" 
+			},
+			{
+				"title": "Evening",
+				"schedule": [
+					{
+						"title": "Уборка",
+						"time": "19:50",
+						"duration": 25,
+						"reminders": [30]
+					},
+					{
+						"title": "Планирование и работа с ежедневником",
+						"time": "20:15",
+						"duration": 30,
+						"reminders": [5]
+					},
+					{
+						"title": "Личная гигиена",
+						"time": "20:45",
+						"duration": 15,
+						"reminders": [5]
+					},
+					{
+						"title": "Чтение",
+						"time": "21:00",
+						"duration": 40,
+						"reminders": [5]
+					}
+				],
+				"recurrence": "RRULE:FREQ=DAILY" 
+			}
+		]
+	},
+	{
+		"calendar_title": "cal_health",
+		"calendar_id": "F7626466-4AF9-4131-BB23-84A02F1DE156",
+		"calendar_routine": [
+			{
+				"title": "Main Workout",
+				"schedule": [
+					{
+						"title": "Тренировка",
+						"time": ""
+						"duration": 90,
+						"reminders": []
+					}
+				],
+				"recurrence": "RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR"
+			},
+			{
+				"title": "Daily Workout #1",
+				"schedule": [
+					{
+						"title": "10 минут с гирей",
+						"time": ""
+						"duration": 20,
+						"reminders": []
+					},
+					{
+						"title": "10 минут с гирей",
+						"time": ""
+						"duration": 20,
+						"reminders": []
+					},
+				],
+				"recurrence": "RRULE:FREQ=DAILY" 
+			}
+		]
+	},
+	{
+		"calendar_title": "cal_personal",
+		"calendar_id": "",
+		"calendar_routine": [
+			{
+
+			},
+		]
+	},
+	{
+		"calendar_title": "cal_hobbies",
+		"calendar_id": "",
+		"calendar_routine": [
+			{
+			
+			},
+		]
+	},
+	{
+		"calendar_title": "cal_professional",
+		"calendar_id": "",
+		"calendar_routine": [
+			{
+
+			},
+		]
+	}	
+]
